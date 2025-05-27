@@ -1,4 +1,4 @@
-<p>Coded by: Alysa Juliana M. Emilio & Venus Angel Briones</p>
+<p>Coded by: IT Dept.</p>
 <p>Duration: 14/03/2025 – 24/04/2025</p>
 
 <p>TechStack:</p>
